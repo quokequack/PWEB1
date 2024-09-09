@@ -1,0 +1,39 @@
+.element-img{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+}
+
+body{
+    font-family: 'Arial', sans-serif;
+    background-color:#c6b5b5;
+    color:#ffffff;
+    height:150vh;
+}
+
+.aragorn{
+    font-style:italic;
+    text-align:center;
+    width:40%;
+}
+
+img{
+    width:30%;
+    border-radius:50%;
+}
+
+h2{
+    font-weight:lighter;
+    font-style:italic;
+    margin-top: -2%;
+}
+
+.outros, dt{
+    font-weight:bold;
+}
+
+dd, blockquote{
+    font-weight:lighter;
+    font-style:italic;
+}
